@@ -1,2 +1,2 @@
 # JailbreakVN
-Nguồn JailbreakVN cho ios 
+Nguồn Jaibreak cho ios 🥸
