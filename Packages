@@ -1,32 +1,14 @@
 Package: com.tudepzai.dynamicisland
-Name: Dynamic Island
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Description: Tweak Dynamic Island dành cho iOS Rootless
-Maintainer: JailbreakVN
-Author: JailbreakVN
-Section: Tweaks
-Filename: com.tudepzai.dynamicisland_0.0.1-115+0.1.1b_iphoneos-arm64.deb
-Size: 10240
+Version: 0.0.1-115+debug
+Filename: com.tudepzai.dynamicisland_0.0.1-115+debug_iphoneos-arm64.deb
+Size: 601088
 
-Package: com.jailbreakvn.unlockwave
-Name: UnlockWave
-Version: 1.4.5
-Architecture: iphoneos-arm64
-Description: Tweak UnlockWave dành cho iOS Rootless
-Maintainer: JailbreakVN
-Author: JailbreakVN
-Section: Tweaks
-Filename: UnlockWave_1.4.5_rootless_iphoneos-arm64.deb
-Size: 10240
-
-Package: com.jailbreakvn.hideliquidass
-Name: Hide Liquidass
+Package: hide.liquidass
 Version: 0.1.1b
-Architecture: iphoneos-arm64
-Description: Tweak Hide Liquidass dành cho iOS Rootless
-Maintainer: JailbreakVN
-Author: JailbreakVN
-Section: Tweaks
-Filename: hide.liquidass_0.1.1b_iphoneos-arm64.deb
-Size: 10240
+Filename: hide.liquidass_0.1.1b_iphoneos-arm64e.deb
+Size: 3774873
+
+Package: UnlockWave
+Version: 1.4.5
+Filename: UnlockWave_1.4.5_rootless.deb
+Size: 19456
